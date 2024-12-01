@@ -1,4 +1,4 @@
-# Hello, World! 🌏 I'm Aakash 
+# Hello  I'm Aakash 
 📍 Bhattiprolu Mandal, Andhra Pradesh 522256 | 📧 [2100039015cse.r@gmail.com](mailto:2100039015cse.r@gmail.com)
 
 ---
