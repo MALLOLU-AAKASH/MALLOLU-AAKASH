@@ -3,11 +3,6 @@
 
 ---
 
-## 🎯 Objective  
-Self-motivated and detail-oriented **B.Tech CSE student** with a strong foundation in **Java, HTML, CSS, and JavaScript**. I bring hands-on experience from projects involving **AWS**, **ServiceNow**, and **front-end technologies**, specializing in **cloud and edge computing**. My goal is to utilize my skills effectively, contributing to the success of innovative technology solutions.
-
----
-
 ## 🎓 Education  
 - **K L Deemed to be University, Vijayawada**  
   - B.Tech, Computer Science and Engineering – **CGPA: 9.22**  
