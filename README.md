@@ -59,9 +59,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/malloluaakash)  
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/malloluaakash)
 
-## ⚡ Fun Fact  
-I believe in balancing work and humor—because a little fun never hurts! 😊
 
----
 
 
